@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm majoring in artificial intelligence at FPT University. I aim to apply the power of AI to make our lives better.
 
-Current position: Research assistant at [![AiTa-Lab](https://aita-lab.github.io/) 
+Current position: Research assistant at [AiTa-Lab](https://aita-lab.github.io/)
 
 
 ## 🌐 Socials:
